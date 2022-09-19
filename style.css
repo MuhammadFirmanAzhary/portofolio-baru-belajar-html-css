@@ -1,0 +1,123 @@
+body {
+    background-color: black;
+    background-size: cover;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FUXhe-Jh_Rb6bWP3COtE7aCnDEefpv9Hhw&usqp=CAU);
+}
+
+.ary {
+    color: blue;
+}
+.container {
+    background-color:rgb(17, 3, 3);
+    border-radius: 8px;
+    padding: 3px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.aprication{
+    margin-top: 7rem;
+}
+.button{
+    font-family: sans-serif;
+    margin-left: 7px;
+    margin-top: 1rem;
+}
+.register {
+    border-radius: 50px;
+    background-color: yellow;
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    color: rgb(0, 0, 0);
+}
+.text {
+    color: rgb(255, 255, 255);
+}
+.am {
+    color: rgb(255, 255, 255);
+}
+.jaka {
+    border-radius: 10px;
+}
+.sertifikat {
+    border-radius: 10px;
+    margin-top: 1rem;
+    justify-content: space-between;
+    
+}
+.sertifikat img {
+    margin-left: 10px;
+}
+.aprication {
+    margin-top: 10px;
+    
+}
+.span {
+    color:  white;
+}
+h3 {
+    color: white;
+}
+.logo {
+    justify-content: space-between;
+    
+}
+.css{
+    border-radius: 10px;
+    margin-left: 20px;
+}
+footer {
+    /* margin: 80px 0px; */
+    background-color: #dcfce7;
+    border-radius: 80px;
+    padding: 4rem 3rem;
+    margin-top: 9rem;
+    
+  }
+  
+  footer .textFooter {
+    display: flex;
+    justify-content: space-around;
+    color: #dcfce7;
+  }
+  
+  footer .textFooter ul {
+    list-style-position: inside;
+    list-style-type: none;
+    color: aliceblue;
+  }
+  
+  footer .textFooter ul li {
+    color: #c1d1e7;
+    padding: 5px 0px;
+  }
+  
+  footer hr {
+    margin: 30px 0px;
+    color: #475569;
+  }
+  
+  footer .footerBottom {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  footer .footerBottom ul {
+    display: flex;
+    list-style-type: none;
+  }
+  
+  footer .footerBottom > ul > li > a {
+    text-decoration: none;
+    margin: 0px 10px;
+  }
+  
+  footer .footerBottom .navLogin {
+    display: flex;
+    align-items: center;
+  }
+  
+  footer .footerBottom .navLogin i {
+    margin: 0 10px;
+  }
